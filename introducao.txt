@@ -1,0 +1,2 @@
+No começo eu aprendi que Git é um sistema de controle de versão de arquivos e com ele podemos desenvolver projetos colaborativos. O Git registra diferentes modificações de um arquivo e permite recuperar uma versão específica.
+Logo após aprendi que Github é um serviço de hospedar projetos Git, permite projetos privados ou Open Source, ajuda a desenvolver um networking entre progamadores e serve como portifólio online

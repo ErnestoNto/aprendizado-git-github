@@ -1,0 +1,11 @@
+Para mostrar as branches: git branch
+
+Para criar uma nova branch: git branch nome
+
+Para trocar de branch: git checkout nome da branch
+
+Para deletar uma branch: git branch -d nome || git branch -D nome
+
+Criar uma branch e mudar para ela: git checkout -b nome
+
+Enviar as informações de uma branch para outra: git merge nome da branch pega

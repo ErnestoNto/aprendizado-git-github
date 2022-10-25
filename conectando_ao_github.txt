@@ -1,0 +1,8 @@
+Para subir o código para o github: 
+    git push origin master
+
+Para pegar arquivos do server remoto:
+    git pull origin master
+
+Para ignora arquivos:
+    crie a pasta .gitignore

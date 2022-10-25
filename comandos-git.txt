@@ -1,0 +1,17 @@
+Para começar: git init
+
+Para olhar o status: git status
+
+Para adicionar ao server-local: git add .
+
+Para comitar: git commit -m 'mensagem'
+
+Para vizualizar o historico de commits: git log
+
+Para ver a diferença entre as alterações: git diff --cached
+
+Para alterar o commit: git commit --amend
+
+Para resetar a alteração do server local: git reset HEAD nome do arquivo
+
+Para apagar as alterações do editor: git checkout -- nome do arquivo

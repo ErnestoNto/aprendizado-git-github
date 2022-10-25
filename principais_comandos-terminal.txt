@@ -1,0 +1,15 @@
+Para mandar uma mensagem no terminal: echo '...'
+
+Para criar uma nova pasta: mkdir nome
+
+Lista todas as coisas do diretório: ls
+
+Para entrar numa pasta: cd nome da pasta
+
+Para sair da pasta: cd ../
+
+Criar um novo arquivo: touch nome
+
+Mover arquivo: mv
+
+Para remover: rm none
